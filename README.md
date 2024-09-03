@@ -2,7 +2,7 @@
 Currently a student in Paris at Efrei School, specializing in cybersecurity, after spending two years passionate about web and application development.
 
 <div align="center">
-  ![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanllNWo3YXdzNDNzeGdhNzhoZ3dtZWVscGE2YXljbW51MnZ1b29lZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanllNWo3YXdzNDNzeGdhNzhoZ3dtZWVscGE2YXljbW51MnZ1b29lZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
 </div>
 
 
