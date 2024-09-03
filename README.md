@@ -1,11 +1,8 @@
 # 💫 About Me:
 Currently a student in Paris at Efrei School, specializing in cybersecurity, after spending two years passionate about web and application development.
 
-<div align="center">
-  <img src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" style="" frameborder="0" class="giphy-embed" allowfullscreen />
-  <p>
-    <a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">Voir le GIF sur Giphy</a>
-  </p>
+div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 
